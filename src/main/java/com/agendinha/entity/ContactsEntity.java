@@ -1,4 +1,4 @@
-package entity;
+package com.agendinha.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
