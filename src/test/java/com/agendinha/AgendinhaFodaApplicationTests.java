@@ -1,10 +1,10 @@
-package com.AgendinhaFoda;
+package com.agendinha;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AgendinhaFodaApplicationTests {
+class AgendinhaApplicationTests {
 
 	@Test
 	void contextLoads() {
